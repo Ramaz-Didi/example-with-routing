@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/example-with-routing/static/css/main.c2cab247.css",
-    "main.js": "/example-with-routing/static/js/main.96510df8.js",
+    "main.css": "/example-with-routing/static/css/main.4783d3fd.css",
+    "main.js": "/example-with-routing/static/js/main.c0b1add9.js",
     "static/media/Bootstrap-portfolio.png": "/example-with-routing/static/media/Bootstrap-portfolio.f2329ba0080b91cc0d36.png",
     "static/media/Weather dashboard.png": "/example-with-routing/static/media/Weather dashboard.d12c24af02970b60ce39.png",
     "static/media/Travel-Xperience.jpg": "/example-with-routing/static/media/Travel-Xperience.7ac6945f2b381c78a6ad.jpg",
+    "static/media/Ramaz-choxashi.jpg": "/example-with-routing/static/media/Ramaz-choxashi.016758d0187900005c21.jpg",
     "static/media/Team-Profile-Generator.png": "/example-with-routing/static/media/Team-Profile-Generator.78eb61ab701661af93a9.png",
     "index.html": "/example-with-routing/index.html",
-    "main.c2cab247.css.map": "/example-with-routing/static/css/main.c2cab247.css.map",
-    "main.96510df8.js.map": "/example-with-routing/static/js/main.96510df8.js.map"
+    "main.4783d3fd.css.map": "/example-with-routing/static/css/main.4783d3fd.css.map",
+    "main.c0b1add9.js.map": "/example-with-routing/static/js/main.c0b1add9.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2cab247.css",
-    "static/js/main.96510df8.js"
+    "static/css/main.4783d3fd.css",
+    "static/js/main.c0b1add9.js"
   ]
 }
