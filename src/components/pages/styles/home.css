@@ -1,0 +1,35 @@
+h1,h3 {
+    color: rgb(99, 135, 28);
+    text-align: center;
+}
+h4 {
+    color: rgb(22, 171, 92);
+    text-align: center;
+}
+.homePageImg {
+    width: 400px;
+    /* left:50%; */
+}
+.homeSpaceImg{
+    position: relative;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+}
+.homeSpace {
+    align-items: center;
+
+}
+.homeSpaceFooting {
+    display: flex;
+    justify-content: center;
+
+}
+.homeSpaceFootingText {
+width: 600px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: x-large;
+text-align: center;
+color: darkgreen;
+font-style: oblique;
+}

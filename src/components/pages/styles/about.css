@@ -1,0 +1,32 @@
+h1,h3 {
+    margin-top: 10px;
+    color: rgb(62, 85, 114);
+    text-align: center;
+}
+.aboutImg {
+    margin-top: 10px;
+    width: 800px;
+    /* left:50%; */
+}
+.aboutSpace {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+.aboutSpaceText {
+
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+.aboutText {
+    margin-top: 10px;
+    width: 1000px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: center;
+    color: darkgreen;
+    font-style: oblique;
+}
