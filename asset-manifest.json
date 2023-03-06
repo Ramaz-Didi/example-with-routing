@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/example-with-routing/static/css/main.90777b83.css",
-    "main.js": "/example-with-routing/static/js/main.847289ec.js",
+    "main.css": "/example-with-routing/static/css/main.0bdcff8b.css",
+    "main.js": "/example-with-routing/static/js/main.3992de79.js",
     "static/media/website-design-2.jpg": "/example-with-routing/static/media/website-design-2.64df6f405733aee1fe05.jpg",
     "static/media/Bootstrap-portfolio.png": "/example-with-routing/static/media/Bootstrap-portfolio.f2329ba0080b91cc0d36.png",
     "static/media/Weather dashboard.png": "/example-with-routing/static/media/Weather dashboard.d12c24af02970b60ce39.png",
@@ -9,11 +9,11 @@
     "static/media/Ramaz-choxashi.jpg": "/example-with-routing/static/media/Ramaz-choxashi.016758d0187900005c21.jpg",
     "static/media/Team-Profile-Generator.png": "/example-with-routing/static/media/Team-Profile-Generator.78eb61ab701661af93a9.png",
     "index.html": "/example-with-routing/index.html",
-    "main.90777b83.css.map": "/example-with-routing/static/css/main.90777b83.css.map",
-    "main.847289ec.js.map": "/example-with-routing/static/js/main.847289ec.js.map"
+    "main.0bdcff8b.css.map": "/example-with-routing/static/css/main.0bdcff8b.css.map",
+    "main.3992de79.js.map": "/example-with-routing/static/js/main.3992de79.js.map"
   },
   "entrypoints": [
-    "static/css/main.90777b83.css",
-    "static/js/main.847289ec.js"
+    "static/css/main.0bdcff8b.css",
+    "static/js/main.3992de79.js"
   ]
 }
