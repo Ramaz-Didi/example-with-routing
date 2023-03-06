@@ -1,5 +1,5 @@
 React Portfolio
-Dispite of my early tryies my Readmy file do not meet your requirement. App all working.
+Despite of my early tries my Readme file do not meet your requirement. App all working.
 
 Repository link  https://github.com/Ramaz-Didi/example-with-routing
 Deployed in  https://ramaz-didi.github.io/example-with-routing/
